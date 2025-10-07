@@ -1,7 +1,5 @@
 # Hotel Manage — Simple App
 
-A minimal Streamlit app for simple hotel/restaurant management.
-
 **Live Demo:** [https://hotel-manage-simple---app-a7ngi8pzxq4mw2fvdqzqki.streamlit.app/](https://hotel-manage-simple---app-a7ngi8pzxq4mw2fvdqzqki.streamlit.app/)
 
 ---
@@ -13,17 +11,8 @@ It allows users to:
 - Create and manage orders
 - Generate simple bills
 
-This app is a good starting point for learning Streamlit or prototyping a small restaurant management system.
-
 ---
 
-## Features
-- Interactive menu display with items and prices
-- Create and manage orders
-- Simple invoice/billing view
-- Clean and responsive UI built with Streamlit
-
----
 
 ## Quick Demo
 Open the live app here: [Live Demo](https://hotel-manage-simple---app-a7ngi8pzxq4mw2fvdqzqki.streamlit.app/)
